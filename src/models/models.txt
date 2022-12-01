@@ -1,0 +1,21 @@
+para nosotros
+ poder definir como van a lucir  los datos que qeremos almacenar dentro de las base de datos
+
+aqui vam,os a definir 
+
+1.- mis notas tendran un titulo?
+2.- tendran una fecha 
+
+3.- tedran un autor 
+
+
+tambien tendremos que definir el USARUIO
+tendra un nombre 
+una fecha de creacion
+tendra un user name 
+tendra una contraseña 
+
+
+aqui definiremos esa incognitas
+
+c

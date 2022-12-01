@@ -1,0 +1,13 @@
+puede almacenar distintos archivos
+
+***aqui puedo colocar mi conexion a mi base de datos 
+
+
+****variables de configuracion del entorno
+***comfiguracion de como estoy autenficando
+
+
+
+***** los modulos estan configurados******
+
+

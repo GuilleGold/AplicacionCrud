@@ -1,0 +1,10 @@
+para que podamos insertar todo los archivos estaticos 
+
+archivos
+imagenes
+fuentes
+archivos ss  
+
+UTILIDAD osea son los "archivo javascript 
+que queramos enviar al navegador y pintar por pantalla".
+

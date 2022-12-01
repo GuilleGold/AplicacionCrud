@@ -1,0 +1,10 @@
+sirve para crear
+- las url
+ -las rutas de nuestro servidor 
+ruta login
+ruta register
+ruta nota
+ruta para enlistar notas 
+
+osea
+

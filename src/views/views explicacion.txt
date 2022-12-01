@@ -1,0 +1,15 @@
+2 
+Aqui va almacenr todos  los  archivos que vamos  enviaraan al >>>navegador
+osea enviar:
+".html"
+
+osea todas las vistas de html
+para esto usaremos 
+
+****handle bars*******
+
+ es un motor de plantillas  al final todo covierte :
+".html"
+
+y eso enviaremos al navegador
+

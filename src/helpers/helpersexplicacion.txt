@@ -1,0 +1,11 @@
+voy a poder colocar funciones que mi servidor pueda utilizar 
+
+se va a crear aqui podemos crear cualqqueir funcion que podemos reutilizar en cualquier parte 
+
+
+por ejemplo 
+tener que crear un funcion que genere un numero aleatorio
+
+
+no en toda mi aplicacion voy a necesitarlo y no es un modulo principal   , pero al crearlo en esta carpeta puedo llamar a la 
+"funcion varias veces"
