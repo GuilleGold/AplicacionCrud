@@ -1,0 +1,162 @@
+GIT STATUS 
+GIT ADD .
+GIT COMMIT -m " mi quinto COMMIT"
+
+GIT PUSH -U ORIGIN
+
+
+
+********************
+q
+npm i nodemon -d
+************************
+******SIRVE*************
+***********************
+me va permitir reinicir sin la necesidad de cancelar el servidor y volviendolo a ejecutar 
+nodemon "LO HARA POR MI"
+
+
+
+
+
+
+
+
+/////////
+npm init --yes
+*********MODULO PARA EL SERVIDOR :
+}
+npm i 
+
+instalar modulos tanto para el front end como el back end 
+es un framework de NODE 
+modulo express
+******npm i express***
+escribir el servidor mas sencilla y mas professional
+
+*****complementos****
+************express handlebars:**************
+poder integrar un montor de plantillas dentro de express es la manera como vamos a poder integrar handlebars que es un motor de plantilla en nuestro seervidor 
+es una manera de extender el html
+
+el html no tiene bucles no tiene condicionales, pero mediante un motor de plantilla si podemos hacer eso  ademas tambien vamos a utilizar
+
+
+
+
+***********MODULO  Express session :*************
+sirve pARA crear sessiones dentro del servidor 
+
+ejemplo: 
+cuando el usuario se autentique:
+>>el va insertar sus : DATOS; CONTRASEÑAS Y SU USARUIO:
+
+LA IDEA ES QUE CUADNO VISITE OTRA PAGINA YA NO SE VUELVA A "autentificarSE " 
+>>>ENTONCES VAMOS A ALMACERNAR SUS DATOS EN UNA "SESSION".
+
+NEXT PASOOO 
+*****INSTALACION  METHOD-OVERRRIDE ***********
+para poder extender  la "FUNCIONALIDAD" de los formularios 
+Formalarios significado:  Te permiten enviar metodos :
+-"post"
+-"get" 
+-"put"
+-"delete" se envian por javascript pero en los formularios no se puede utilzar 
+>>>>entonces se aplica un meotodo
+
+esto hara que el formulario  pueda enviar 
+metodos:
+-"put"
+-"delete" 
+
+NEXT
+se neecsitara una base de datos para la(MODULO)= aplicacion
+por eso instalaremos 
+*****"mongoose" ***
+**permite unir express con una base de datos
+
+**permite conectarme a "mongodb"
+///MODULOS PARA 
+la aplicacion necisarta  autenficarme adicional a  guarda en la base de datos 
+******mmodulo agregar" 
+passport" y  "passport-local" *******
+
+
+
+luego instalar sus complementos
+
+motor de platillas dentro de express
+
+es una manera de extender express
+
+adicionakl aa eso 
+es para crear sesisiones
+sus datos contraseñas y sus datos 
+vamos almacenar sus datos en una sesisiones
+
+*****luego otro metodo*/*****
+
+extender formularios , mandar ppost y get 
+pusgh y delete 
+metodo overigh para que pueda meter metodos como put y delete
+*****unir express con la base de datos******
+**instalacion mungus****
+por eso instalamos mungus 
+es un modulo de conexion , vamos a neecsitar autentificarme 
+creacion de un modulo password
+
+modulos para el servidopr para autentificar al usuario
+por eso usamos otro modulo 
+
+apolicar un algoritmo y cojnvertirlo en un hash y esto me sirve para poder cifrarse la clave 
+
+
+
+
+
+
+
+MODULO PARA AUTENFIICAR AL USUARIO 
+
+
+
+
+
+connect-flash
+****Modulo **********
+enviar mensajes entre multiples vista  cosa que enviamos estos mensajes ejemplo :
+y otro modulo cuando se equivoqe3, o qe la ocontraseña sea mayor .
+
+
+******modulo  bcrypyjs******
+
+problema?
+CUANDO EL USUARIO PONE SU CLAVE TIENE QUE SER CIFRADA POR ESO USAREMOS ESTE MODULO 
+solucion?
+APLICA UN ALGORITMO A UN DETERMINADO TEXTO o STRING y 
+LO CONVIERTE 
+
+**HASH****
+ESTO HARA Q SE CIFRE Y CONVIERTE EN SIGNO QUE NO CUALQUIIERA PEUDE ENTENDERLO
+
+OSEA TODO LO QUE SE INSERTA PALABRAS ESTE SEA  CIFRADO
+
+
+NEXT
+
+****MODULO CONNECT-FLASH****
+
+
+SIRVE :NOSOTROS PODAMOS ENVIAR MENSAJES ENTRE MULTIPLES VISTAS 
+
+OSEA 
+CUANDO EL USUARIO  SE EQUIVOQUE VAMOS A QUERER ENVIAR UN MENSAJES
+
+CUANDO EL USUARIO ESCRIBA 
+UNA CONTRASEÑA <4 DIGITOS 
+ENVAIRLE UN MENSAJE :"HEY TU CONTRASEÑA DEBERIA DE SER MAYOR A 4 DIGITOS PARA QEU SEA MAS SEGURA"..
+
+d--
+
+
+  
